@@ -58,9 +58,10 @@ width: 50%;
 table {
 
 display: table;
-border-collapse: separate;
-border-spacing: 2px;
-border-color: gray;
+border-collapse: collapse;
+width: 90;
+max-width: 500px;
+border-color: rgb(165, 113, 45);
 }
 
 div {
