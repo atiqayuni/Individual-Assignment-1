@@ -28,7 +28,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color: #CBB94A;
+background-color: #d7bc89;
 }
 
 ul li {
@@ -45,7 +45,9 @@ padding: 14px 16px;
 text-decoration: none;
 }
 
-ul li a:hover {
-
-background-color: #111111;
+img {
+    
+display: block;
+margin: auto;
+width: 50%;
 }
