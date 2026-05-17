@@ -53,9 +53,10 @@ table {
 
 display: table;
 border-collapse: collapse;
-width: 90;
+width: 65;
 margin-top: 20px;
 margin-bottom: 20px;
+margin: 0 auto;
 border-color: rgb(165, 113, 45);
 }
 
