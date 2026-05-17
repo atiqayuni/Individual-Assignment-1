@@ -51,17 +51,15 @@ text-decoration: none;
 
 table {
 
-display: table;
 border-collapse: collapse;
-width: 65;
-margin-top: 20px;
-margin-bottom: 20px;
-margin: 0 auto;
+width: 100%;
+margin: 20px 0;
 border-color: rgb(165, 113, 45);
 }
 
 th, td {
 padding: 8px;
+border: 1px rgb(165, 113, 45);
 text-align: left;
 }
 
