@@ -48,19 +48,14 @@ padding: 14px 16px;
 text-decoration: none;
 }
 
-img {
-
-display: block;
-margin: auto;
-width: 50%;
-}
 
 table {
 
 display: table;
 border-collapse: collapse;
 width: 90;
-max-width: 500px;
+margin-top: 20px;
+margin-bottom: 20px;
 border-color: rgb(165, 113, 45);
 }
 
