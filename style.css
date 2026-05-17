@@ -58,7 +58,7 @@ border-color: rgb(165, 113, 45);
 }
 
 th, td {
-padding: 8px;
+padding: 12px 15px;
 border: 1px rgb(165, 113, 45);
 text-align: left;
 }
