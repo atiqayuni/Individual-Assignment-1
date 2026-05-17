@@ -52,12 +52,12 @@ text-decoration: none;
 table {
 
 border-collapse: collapse;
-width: 100%;
-margin: 20px 0;
+width: 90%;
+margin: 30px auto;
 border-color: rgb(165, 113, 45);
 }
 
-th, td {
+table th, table td {
 padding: 12px 15px;
 border: 1px rgb(165, 113, 45);
 text-align: left;
