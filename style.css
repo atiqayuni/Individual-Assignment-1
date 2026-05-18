@@ -57,7 +57,7 @@ margin-right: auto;
 }
 table, th, td  {
 
-border: 1px  solid black;
+border: 2px  solid black;
 border-collapse: collapse;
 }
 
@@ -69,18 +69,18 @@ text-align: left;
 
 .myDIV {
     
-background-color:rgb(213, 202, 166);
+background-color:rgba(197, 179, 136, 0.921);
 padding: 30px;
 border-radius: 12px;
 box-shadow: 0 4px 15px rgba (0, 0, 0, 0.1);
-width: 80%;
-max-width: 650px;
+width: 100%;
+max-width: 800px;
 margin: 40px auto;
 color: black;
 
 footer {
     
-background-color: #7C6658;
+background-color: #563a285d;
 text-align: center;
 padding: 5px;
 margin-top: 10px;
