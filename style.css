@@ -51,15 +51,22 @@ text-decoration: none;
 
 table {
 
-border-collapse: collapse;
-width: 90%;
-margin: 30px auto;
-border-color: rgb(165, 113, 45);
+width: 100%
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: auto;
+margin-right: auto;
 }
 
-table th, table td {
-padding: 12px 15px;
+table, th, td  {
+
 border: 1px rgb(165, 113, 45);
+border-collapse: collapse;
+}
+
+th, td {
+    
+padding: 12px;
 text-align: left;
 }
 
