@@ -65,7 +65,7 @@ border-collapse: collapse;
 }
 
 th, td {
-    
+
 padding: 12px;
 text-align: left;
 }
@@ -76,6 +76,7 @@ display: block;
 }
 
 footer {
+    
 background-color: #7C6658;
 text-align: center;
 padding: 5px;
