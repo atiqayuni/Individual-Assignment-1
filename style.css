@@ -84,7 +84,7 @@ background-color: #563a285d;
 text-align: center;
 padding: 5px;
 margin-top: 10px;
-border: 1px;
+border: 1px solid black;
 }
 
 .profile-pic {
